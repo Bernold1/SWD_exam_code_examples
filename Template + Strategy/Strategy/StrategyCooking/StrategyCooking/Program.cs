@@ -25,12 +25,12 @@ namespace StrategyCooking
                         goodInput = false;
                         break;
                     case "bake":
-                        cookMethod.SetCookStrat(new Grilling());
+                        cookMethod.SetCookStrat(new Baking());
                         cookMethod.Cook();
                         goodInput = false;
                         break;
                     case "slow cook":
-                        cookMethod.SetCookStrat(new Grilling());
+                        cookMethod.SetCookStrat(new SlowCooker());
                         cookMethod.Cook();
                         goodInput = false;
                         break;

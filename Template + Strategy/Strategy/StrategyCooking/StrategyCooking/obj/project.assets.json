@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive\\OneDrive - Aarhus universitet\\6. Semester\\SWD reeksamen\\Template + Strategy\\Strategy\\StrategyCooking\\StrategyCooking\\StrategyCooking.csproj",
+      "projectUniqueName": "D:\\OneDrive\\OneDrive - Aarhus universitet\\6. Semester\\SWD reeksamen\\Repo\\SWD_exam_code_examples\\Template + Strategy\\Strategy\\StrategyCooking\\StrategyCooking\\StrategyCooking.csproj",
       "projectName": "StrategyCooking",
-      "projectPath": "D:\\OneDrive\\OneDrive - Aarhus universitet\\6. Semester\\SWD reeksamen\\Template + Strategy\\Strategy\\StrategyCooking\\StrategyCooking\\StrategyCooking.csproj",
+      "projectPath": "D:\\OneDrive\\OneDrive - Aarhus universitet\\6. Semester\\SWD reeksamen\\Repo\\SWD_exam_code_examples\\Template + Strategy\\Strategy\\StrategyCooking\\StrategyCooking\\StrategyCooking.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive\\OneDrive - Aarhus universitet\\6. Semester\\SWD reeksamen\\Template + Strategy\\Strategy\\StrategyCooking\\StrategyCooking\\obj\\",
+      "outputPath": "D:\\OneDrive\\OneDrive - Aarhus universitet\\6. Semester\\SWD reeksamen\\Repo\\SWD_exam_code_examples\\Template + Strategy\\Strategy\\StrategyCooking\\StrategyCooking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
