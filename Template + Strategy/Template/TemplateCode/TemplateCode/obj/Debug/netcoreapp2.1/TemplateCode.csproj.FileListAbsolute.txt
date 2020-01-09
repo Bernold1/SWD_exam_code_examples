@@ -1,0 +1,11 @@
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\bin\Debug\netcoreapp2.1\TemplateCode.deps.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\bin\Debug\netcoreapp2.1\TemplateCode.runtimeconfig.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\bin\Debug\netcoreapp2.1\TemplateCode.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\bin\Debug\netcoreapp2.1\TemplateCode.dll
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\bin\Debug\netcoreapp2.1\TemplateCode.pdb
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\obj\Debug\netcoreapp2.1\TemplateCode.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\obj\Debug\netcoreapp2.1\TemplateCode.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\obj\Debug\netcoreapp2.1\TemplateCode.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\obj\Debug\netcoreapp2.1\TemplateCode.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\obj\Debug\netcoreapp2.1\TemplateCode.dll
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Template\TemplateCode\TemplateCode\obj\Debug\netcoreapp2.1\TemplateCode.pdb

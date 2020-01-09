@@ -1,0 +1,11 @@
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\bin\Debug\netcoreapp2.1\OverTheHillsAndFarAway.deps.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\bin\Debug\netcoreapp2.1\OverTheHillsAndFarAway.runtimeconfig.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\bin\Debug\netcoreapp2.1\OverTheHillsAndFarAway.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\bin\Debug\netcoreapp2.1\OverTheHillsAndFarAway.dll
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\bin\Debug\netcoreapp2.1\OverTheHillsAndFarAway.pdb
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\obj\Debug\netcoreapp2.1\OverTheHillsAndFarAway.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\obj\Debug\netcoreapp2.1\OverTheHillsAndFarAway.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\obj\Debug\netcoreapp2.1\OverTheHillsAndFarAway.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\obj\Debug\netcoreapp2.1\OverTheHillsAndFarAway.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\obj\Debug\netcoreapp2.1\OverTheHillsAndFarAway.dll
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Observer\Teletubby Solution\OverTheHillsAndFarAway\obj\Debug\netcoreapp2.1\OverTheHillsAndFarAway.pdb

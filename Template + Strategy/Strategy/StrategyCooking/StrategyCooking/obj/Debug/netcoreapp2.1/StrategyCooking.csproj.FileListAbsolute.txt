@@ -1,0 +1,11 @@
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\bin\Debug\netcoreapp2.1\StrategyCooking.deps.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\bin\Debug\netcoreapp2.1\StrategyCooking.runtimeconfig.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\bin\Debug\netcoreapp2.1\StrategyCooking.runtimeconfig.dev.json
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\bin\Debug\netcoreapp2.1\StrategyCooking.dll
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\bin\Debug\netcoreapp2.1\StrategyCooking.pdb
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\obj\Debug\netcoreapp2.1\StrategyCooking.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\obj\Debug\netcoreapp2.1\StrategyCooking.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\obj\Debug\netcoreapp2.1\StrategyCooking.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\obj\Debug\netcoreapp2.1\StrategyCooking.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\obj\Debug\netcoreapp2.1\StrategyCooking.dll
+D:\OneDrive\OneDrive - Aarhus universitet\6. Semester\SWD reeksamen\Template + Strategy\Strategy\StrategyCooking\StrategyCooking\obj\Debug\netcoreapp2.1\StrategyCooking.pdb
